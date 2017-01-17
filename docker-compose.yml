@@ -1,0 +1,5 @@
+without:
+	build: .
+	command: bundle exec ruby app.rb -o 0.0.0.0
+	ports:
+		- "50013:8080"
