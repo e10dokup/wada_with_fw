@@ -7,3 +7,5 @@ gem 'sinatra-contrib'
 gem 'rake'
 gem 'activerecord'
 gem 'sinatra-activerecord'
+
+gem 'foreman'
